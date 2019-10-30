@@ -1,19 +1,25 @@
 
-Understand how braces `{}` are used to group code into blocks and how scope affects the lifespan of a variable
+Identify, use, and understand the difference between the basic data types: `Int`, `Double`, `Bool`, `String`)
 
 Understand how to apply mutability to variables (`let` vs. `var`)
 
-Group like instructions into a function and call that function to reuse/organize code
+Use conditional logic to execute various code paths
 
 Iterate over an array using a loop to accomplish some task
 
+Group like instructions into a function and call that function to reuse/organize code
+
+Understand how braces `{}` are used to group code into blocks and how scope affects the lifespan of a variable
 
 
-Identify, use, and understand the difference between the basic data types: `Int`, `Double`, `Bool`, `String`)
 
-Use conditional logic to execute various code paths
 
-Understand and explain the purpose of optionals
+
+
+
+
+
+
 
 
 
